@@ -8,6 +8,9 @@
     "cz-conventional-changelog": "^3.0.2"
   },
   "devDependencies": {
+    "@commitlint/cli": "^8.2.0",
+    "@commitlint/config-conventional": "^8.2.0",
+    "commitlint-config-cz": "^0.12.1",
     "cz-customizable": "^6.2.0"
   },
   "scripts": {
