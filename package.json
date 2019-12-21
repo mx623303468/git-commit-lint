@@ -7,7 +7,9 @@
     "commitizen": "^4.0.3",
     "cz-conventional-changelog": "^3.0.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "cz-customizable": "^6.2.0"
+  },
   "scripts": {
     "commit": "git-cz"
   },
@@ -16,7 +18,7 @@
   "license": "ISC",
   "config": {
     "commitizen": {
-      "path": "node_modules/cz-conventional-changelog"
+      "path": "node_modules/cz-customizable"
     }
   }
 }
